@@ -8,3 +8,7 @@ Blockbuster
 
 
 Update with Tortoise…
+
+name Todor
+
+now resolving conflict, or at least trying
